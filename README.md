@@ -4,16 +4,16 @@ This project aims to raise awareness about climate change through data-driven st
 
 Key Features:
 
-Interactive Dashboard: Visualize annual and seasonal glacier ice discharge, freshwater data, and cumulative ice loss.
-Data Sources: Integrates satellite data from NASA, USGS, and Copernicus for comprehensive analysis.
-Insights: Offers user-friendly exploration of the relationship between glacier melt, fjord salinity, and freshwater flux.
-Data Story Website: Navigate our dedicated website, which presents engaging narratives supported by the data, helping to contextualize the significance 
+1. Interactive Dashboard: Visualize annual and seasonal glacier ice discharge, freshwater data, and cumulative ice loss.
+2. Data Sources: Integrates satellite data from NASA, USGS, and Copernicus for comprehensive analysis.
+3. Insights: Offers user-friendly exploration of the relationship between glacier melt, fjord salinity, and freshwater flux.
+4. Data Story Website: Navigate our dedicated website, which presents engaging narratives supported by the data, helping to contextualize the significance 
 of our findings and the urgency of climate action.
 
 Objectives:
 
-Educate users on the accelerating impacts of climate change.
-Encourage collective action to reduce greenhouse gas emissions.
-Provide a platform for further research and analysis of glacial dynamics.
+1. Educate users on the accelerating impacts of climate change.
+2. Encourage collective action to reduce greenhouse gas emissions.
+3. Provide a platform for further research and analysis of glacial dynamics.
 
 Join us in uncovering the compelling stories behind the data and advocating for a sustainable future!
